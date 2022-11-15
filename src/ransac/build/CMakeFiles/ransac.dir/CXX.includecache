@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agilex/ros_ws/src/ransac/src/ransac.cpp
+iostream
+-
+string
+-
+vector
+-
+pcl-1.8/pcl/io/pcd_io.h
+-
+pcl-1.8/pcl/point_types.h
+-
+pcl-1.8/pcl/point_cloud.h
+-
+pcl-1.8/pcl/visualization/pcl_visualizer.h
+-
+boost/thread/thread.hpp
+-
+boost/random.hpp
+-
+

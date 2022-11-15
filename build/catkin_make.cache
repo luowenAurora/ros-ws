@@ -1,0 +1,2 @@
+agx_sdk:colored_pointcloud:get_odom_pkg:get_velocity_pkg:opencv_camera_pkg:pcl_rslidar_pkg:program:radar-cloud:ros_detection_tracking/ros_detection_tracking:rviz_demo:scout_ros/scout_base:scout_ros/scout_bringup:scout_ros/scout_description:scout_ros/scout_msgs:ugv_sdk
+-DCATKIN_DEVEL_PREFIX=/home/agilex/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/ros_ws/install -G Unix Makefiles

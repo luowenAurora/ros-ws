@@ -1,0 +1,8 @@
+prefix=/home/agilex/ros_ws/install
+
+Name: get_odom_pkg
+Description: Description of get_odom_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp rospy sensor_msgs std_msgs tf

@@ -1,0 +1,8 @@
+prefix=/home/agilex/ros_ws/devel
+
+Name: opencv_camera_pkg
+Description: Description of opencv_camera_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

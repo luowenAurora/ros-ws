@@ -1,0 +1,5 @@
+scout_ros/scout_bringup
+/home/agilex/ros_ws/devel/.private/scout_bringup/cmake.lock /home/agilex/ros_ws/devel/./cmake.lock
+/home/agilex/ros_ws/devel/.private/scout_bringup/share/scout_bringup/cmake/scout_bringupConfig-version.cmake /home/agilex/ros_ws/devel/share/scout_bringup/cmake/scout_bringupConfig-version.cmake
+/home/agilex/ros_ws/devel/.private/scout_bringup/share/scout_bringup/cmake/scout_bringupConfig.cmake /home/agilex/ros_ws/devel/share/scout_bringup/cmake/scout_bringupConfig.cmake
+/home/agilex/ros_ws/devel/.private/scout_bringup/lib/pkgconfig/scout_bringup.pc /home/agilex/ros_ws/devel/lib/pkgconfig/scout_bringup.pc

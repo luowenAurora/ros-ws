@@ -1,0 +1,8 @@
+prefix=/home/agilex/ros_ws/install
+
+Name: program
+Description: Description of program
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

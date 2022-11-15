@@ -1,0 +1,8 @@
+prefix=/home/agilex/ros_ws/devel
+
+Name: radar-cloud
+Description: Description of radar-cloud
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

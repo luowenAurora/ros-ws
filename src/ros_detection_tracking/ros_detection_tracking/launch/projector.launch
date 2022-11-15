@@ -1,0 +1,8 @@
+<launch> 
+  <node pkg="ros_detection_tracking" type="projector" name="project_pc_to_image" output="screen">
+
+  </node>
+
+  <node pkg="rviz" name="rviz" type="rviz"  args="-d $(find ros_detection_tracking)/rviz/projector.rviz">
+  </node>
+</launch>

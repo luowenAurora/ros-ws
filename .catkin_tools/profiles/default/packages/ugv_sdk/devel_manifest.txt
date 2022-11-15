@@ -1,0 +1,5 @@
+ugv_sdk
+/home/agilex/ros_ws/devel/.private/ugv_sdk/cmake.lock /home/agilex/ros_ws/devel/./cmake.lock
+/home/agilex/ros_ws/devel/.private/ugv_sdk/share/ugv_sdk/cmake/ugv_sdkConfig.cmake /home/agilex/ros_ws/devel/share/ugv_sdk/cmake/ugv_sdkConfig.cmake
+/home/agilex/ros_ws/devel/.private/ugv_sdk/share/ugv_sdk/cmake/ugv_sdkConfig-version.cmake /home/agilex/ros_ws/devel/share/ugv_sdk/cmake/ugv_sdkConfig-version.cmake
+/home/agilex/ros_ws/devel/.private/ugv_sdk/lib/pkgconfig/ugv_sdk.pc /home/agilex/ros_ws/devel/lib/pkgconfig/ugv_sdk.pc

@@ -1,0 +1,8 @@
+prefix=/home/agilex/ros_ws/install
+
+Name: ros_detection_tracking
+Description: Description of ros_detection_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

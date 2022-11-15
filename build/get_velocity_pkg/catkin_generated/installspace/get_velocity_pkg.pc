@@ -1,0 +1,8 @@
+prefix=/home/agilex/ros_ws/install
+
+Name: get_velocity_pkg
+Description: Description of get_velocity_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
